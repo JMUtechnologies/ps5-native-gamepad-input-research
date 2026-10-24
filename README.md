@@ -1,3 +1,5 @@
+> **Preservation copy:** Original research by **BlackBearReloaded**, recovered from [manoma080/ps5-native-gamepad-input-research](https://github.com/manoma080/ps5-native-gamepad-input-research) and preserved by **JMUtechnologies**. Original credits, licenses, files, and available history are retained. See [PRESERVATION.md](PRESERVATION.md) for the exact revision and limits.
+
 # PS5 Native Gamepad, Keyboard and Mouse Input Research
 
 [![Examples](https://github.com/blackbearreloaded/ps5-native-gamepad-input-research/actions/workflows/examples.yml/badge.svg)](https://github.com/blackbearreloaded/ps5-native-gamepad-input-research/actions/workflows/examples.yml)
